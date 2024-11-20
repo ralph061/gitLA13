@@ -28,3 +28,8 @@ def addRec():
         file.write(name + ", " + email + ", " + addr + "\n")
     file.close()
 
+def viewRec():
+    filename = "records.txt"
+    with open(filename, 'r') as file:
+        print(file.read())
+    file.close()
