@@ -1,8 +1,9 @@
 # Our first GitHub Activity
 This is our first GitHub activity
 Member names:
-Pisalbon(leader)
-Clarito
+Pisalbon (leader)
 Amion
-Restua
 Domingo
+Clarito
+Restua
+Abacial
