@@ -2,7 +2,7 @@
 This is our first GitHub activity
 Member names:
 Pisalbon(leader)
-Abacial
+Clarito
 Amion
 Restua
 Domingo
